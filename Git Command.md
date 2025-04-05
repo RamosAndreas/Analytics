@@ -37,3 +37,10 @@ git status
 3. git merge <branch name>
 <!-- push merge branch -->
 4. git push origin main
+
+<!-- how to create pull request -->
+1. add files
+2. add commit meessage
+3. push to branch
+4. go to git website repo and compare and pull request
+5. MERGE!
